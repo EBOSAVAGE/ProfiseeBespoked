@@ -1,0 +1,38 @@
+{
+    "firstObject": {"typeData":"salespersons",
+                    "firstName":"Emmanuel",
+                    "lastName":"Ebhohimen",
+                    "address":"89 Bogwalk Drive",
+                    "phone":"7700990033",
+                    "date":"2023-05-18",
+                    "termination":"2023-06-02",
+                    "manager":"Mr. Jacobs"},
+
+    "secondObject": {"typeData":"products",
+                    "name":"iPhone 8",
+                    "manufacturer":"Apple",
+                    "style":"Red",
+                    "purchasePrice":"920.99",
+                    "salePrice":"920.99",
+                    "quantity":"123",
+                    "commission":"20"},
+            
+    "thirdObject": {"typeData":"customers",
+                    "firstName":"Jonah",
+                    "lastName":"Hill",
+                    "address":"75 Beverly Hills Road",
+                    "phone":"8489330404",
+                    "date":"2023-05-12"},
+
+    "fourthObject": {"typeData":"sales",
+                    "productName":"iphone 8",
+                    "salesPersonName":"Hercules",
+                    "customerName":"Zeus",
+                    "salesDate":"2021-02-16"},
+
+    "fifthObject": {"typeData":"discounts",
+                    "productName1":"iPhone 8",
+                    "begDate":"2023-05-08",
+                    "endDate":"2023-06-03",
+                    "discountP":"10"}
+}
